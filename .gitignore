@@ -1,0 +1,14 @@
+# Ignorar entorno virtual
+env/
+venv/
+.venv/
+
+# Archivos de Python
+__pycache__/
+*.pyc
+
+# Configs del sistema
+.DS_Store
+
+# Claves API o configs locales
+.env
